@@ -8,7 +8,9 @@ class Category extends Component {
     render() {
         return(
             <div>
-                <button>{this.props.buttons}</button>
+                <button className="categoryButton" onClick={() => alert('click')}>
+                    {this.props.buttons}
+                </button>
             </div>
         )
     }
