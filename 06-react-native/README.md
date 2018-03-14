@@ -1,10 +1,57 @@
-# React Native
+# React Native - Class 6
 
 Build for native with React using JavaScript!
 
 - https://facebook.github.io/react-native/docs/getting-started.html
 
-## Overview 
+## Activity 
+
+- Install React Native command line tool
+- Create React native project
+- Review fundamental concepts
+  - Testing React Native Projects 
+  - Native Components
+  - Stlying Native Components
+
+## Objectives  
+
+- Intall React native Command Line tool
+- Create React Native test project
+- Run the React Native Project in the Simulator
+- Install Expo 
+- Run the React Native Project on a real device
+- Styling native components
+
+## Challenges 
+
+- Install React Native Command Line Tool
+- Create a new React Native Project
+- Mock up the weather app in react native
+  - Your app displays the information supplied in the weather object
+  - Your app layout the information in the same arrangement as the mock up images
+- Run your project in the iOS simulator on your laptop or desktop computer
+- Install the expo app on your Mobile device
+- Run your React Native project on your mobile device with Expo
+- Stretch Goal: Download Android Studio
+  - Run your React Project in the Android Simulator on your laptop or desktop
+- Stretch Goal: Run your project in Expo on both an Android and iOS device
+
+## Video tutorial 
+
+Follow along with a video tutorial introduction to React Native. 
+
+- [React Native Intro - 8 Videos](https://www.youtube.com/watch?v=CN0LAbiU1CQ&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En)
+
+1. [Getting Started](https://www.youtube.com/watch?v=CN0LAbiU1CQ&index=1&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En)
+1. [Testing in the simulator](https://www.youtube.com/watch?v=5b3Zj8tqZQc&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En&index=2)
+1. [Docs and Wanrings](https://www.youtube.com/watch?v=D-Z8iSYKK70&index=3&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En)
+1. [Flex Box intro](https://www.youtube.com/watch?v=soy5-2s2sjo&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En&index=4)
+1. [Nested Flex Containers](https://www.youtube.com/watch?v=W4dKwiXOhu0&index=5&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En)
+1. [Working with Components](https://www.youtube.com/watch?v=D6zt9QNIVa0&index=6&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En)
+1. [Passing Props](https://www.youtube.com/watch?v=P7U4wyZUKwg&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En&index=7)
+1. [Mapping props to Components](https://www.youtube.com/watch?v=mIo_Ipo5cjM&index=8&list=PLoN_ejT35AEjfN4JsvEYyYpw4zjlv89En)
+
+## Notes
 
 React Native creates a *truly native* projects that run on React. These are *not*
 hybrid HTML apps. 
@@ -97,15 +144,3 @@ layout to more accurately match the mock up.
 
 ![weather-mockup-wire-simple](weather-mockup-wire-detailed.png)
 
-
-Class Schedule 
-
-|time  |     |Activity   |Description      |
-|------|-----|-----------|-----------------|
-| 5mins|5min |Talk       |Intro            |
-| 5mins|10min|Talk       |React Native Components |
-| 5mins|15min|Work       |Install React Native Tools |
-| 5mins|20min|Pair       |Create and Run a React Native Project |
-|10mins|30min|share      |Share Test ideas |
-|10mins|40min|We Do      |Set up Node, Mocha, Chai |
-|20mins|60min|I Do We Do |Mocha it() |
